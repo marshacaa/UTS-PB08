@@ -1,0 +1,9 @@
+<!-- rounded_background.xml -->
+<shape xmlns:android="http://schemas.android.com/apk/res/android"
+    android:shape="rectangle">
+    <corners android:radius="12dp" />
+    <solid android:color="#FFDDDD" /> <!-- Warna pink pastel campur pink tua -->
+    <stroke
+        android:width="2dp"
+        android:color="#FFFFFF" /> <!-- Warna putih -->
+</shape>
